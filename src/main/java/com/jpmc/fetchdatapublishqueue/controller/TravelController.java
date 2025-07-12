@@ -22,3 +22,4 @@ public class TravelController {
         return ResponseEntity.ok("PNRs published to Kafka");
     }
 }
+    
